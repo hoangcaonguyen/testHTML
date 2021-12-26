@@ -1,3 +1,13 @@
 .container{
   background:#663399;
+  padding-left:0px;
+  margin-left:0%;
+}
+
+h1,h2,h3 {
+  padding-left: 5%;
+}
+
+h2{
+  font-size:24px;
 }
